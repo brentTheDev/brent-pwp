@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Demo Project</title>
+		<title>PWP Milestone 1</title>
 	</head>
 	<body>
 		<h1>PWP Milestone 1</h1>
@@ -18,6 +18,7 @@
 					on the website will provide the target audience multiple channels to connect with me. The secondary goal of this
 					website is to showcase my work and contributions to projects as well as creating a professional online presence. </p>
 			<h2>Persona</h2>
+			<img src="./hd-profile.jpg" alt="profile picture of Heidi Dennison">
 				<ul>
 					<li><strong>Name:</strong> Heidi Dennison</li>
 					<li><strong>Age:</strong> 30</li>
@@ -36,6 +37,6 @@
 					within the project. Heidi also wants to see that the potential candidate is active through social media channels.</li>
 					<li><strong>User Story:</strong> As a user, I need to decide if the potential candidate has a the right personality,
 					drive, and music knowledge for the position she is looking to fill.</li>
-		</ul>
+				</ul>
 	</body>
 </html>
