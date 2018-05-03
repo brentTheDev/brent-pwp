@@ -13,6 +13,12 @@
 						(i.e. laptop, idea book) and Indigenous items. This will give the visitor a first impression through
 						visual cues.
 					</p>
+				<h3>About Me:</h3>
+					<p>Overall, I want the tone of this section to be personal and casual as a means of giving the visitor
+						of my site an impression of who I am as a person. At the same time, I want this section to reveal my
+						current skill set and professional background relevant to Web Development and Internet technologies.
+						I feel like this component would help an employer identify if I'm a good fit for their team.
+					</p>
 
 	</body>
 </html>
