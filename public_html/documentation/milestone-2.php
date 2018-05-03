@@ -24,9 +24,14 @@
 						used. The gallery pop-up will include a description of the project and my contributions.
 					</p>
 				<h3>Contact:</h3>
-					<p>This section will contain a simple contact form, my professional email address, and additional links to
-						my professional social media accounts including: GitHub, Twitter, LinkedIn. Utilized a fixed header when
-						scrolling down page to have hamburger menu and icons linked to social media accounts.
+					<p>This section will contain a simple contact form and additional links to
+						my professional social media accounts including: GitHub, Twitter, LinkedIn. Utilized a fixed header on
+						mobile screens when scrolling down page to have hamburger menu and icons linked to social media accounts.
 					</p>
+				<h2>Wireframes</h2>
+					<h3>Mobile Layout</h3>
+						<img src="wireframe-mobile.png" alt="PWP mobile wireframe">
+					<h3>Full Screen Layout</h3>
+						<img src="wireframe-fullscreen.png" alt="PWP full screen wirframe">
 	</body>
 </html>
