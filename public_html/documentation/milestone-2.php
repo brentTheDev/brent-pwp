@@ -15,13 +15,13 @@
 				<h3>About Me:</h3>
 					<p>Overall, I want the tone of this section to be personal and casual as a means of giving the visitor
 						of my site an impression of who I am as a person. At the same time, I want this section to reveal my
-						current skill set and professional background relevant to Web Development and Internet technologies.
+						creative and professional background relevant to Web Development and Internet technologies.
 						I feel like this component would help an employer identify if I'm a good fit for their team.
 					</p>
 				<h3>Portfolio:</h3>
 					<p>Animated, responsive image gallery containing up to 4 examples of my best work. When a person hovers
 						over an image it will do a fade in text effect. The text will display my role and icons of technologies
-						used. The gallery pop-up will include a description of the project and my contributions.
+						used. The text next to the project image will include a project name and my contributions to team.
 					</p>
 				<h3>Contact:</h3>
 					<p>This section will contain a simple contact form and additional links to
