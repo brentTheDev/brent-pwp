@@ -7,8 +7,7 @@
 		<h1>PWP Milestone 2a</h1>
 			<h2>Content Strategy</h2>
 				<h3>Welcome:</h3>
-					<p>
-						A bold, clean typeface for the name brentTheDev. 2 words that describe the roles that brentTheDev
+					<p>A bold, clean typeface for the name brentTheDev. 2 words that describe the roles that brentTheDev
 						plays as a creator and a developer. This will be overlaid onto a picture with my personal tech utilities
 						(i.e. laptop, idea book) and Indigenous items. This will give the visitor a first impression through
 						visual cues.
@@ -19,6 +18,10 @@
 						current skill set and professional background relevant to Web Development and Internet technologies.
 						I feel like this component would help an employer identify if I'm a good fit for their team.
 					</p>
-
+				<h3>Portfolio:</h3>
+					<p>Animated, responsive image gallery containing up to 4 examples of my best work. When a person hovers
+						over an image it will do a fade in text effect. The text will display my role and icons of technologies
+						used. The gallery pop-up will include a description of the project and my contributions.
+					</p>
 	</body>
 </html>
