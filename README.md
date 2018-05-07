@@ -30,6 +30,8 @@ You might want to read ahead regarding the contact form integration, and that do
 
 Your Milestone 2a passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are now clear to begin development on your PWP. Looking forward to seeing your project take shape!
 
+**We'll be building PWP in a file named index.php inside of /public_html**. Please note that no frontend-facing site files should live outside of the /public_html directory. Remember use an organized and standards-compliant directory structure to house all images, JavaScript, CSS, etc. We are done with the /documentation directory for now!
+
 #### Edits &amp; Suggestions
 - `DOCTYPE` is missing.
 - be careful that indentation is accurate. Here's it's a bit off. Only indent child elements, not siblings.
