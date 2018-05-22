@@ -35,3 +35,6 @@ Your Milestone 2a passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/p
 #### Edits &amp; Suggestions
 - `DOCTYPE` is missing.
 - be careful that indentation is accurate. Here's it's a bit off. Only indent child elements, not siblings.
+
+### Milestone 2b Feedback
+Nice work. Meeting notes left via Slack. Your Milestone 2b passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
