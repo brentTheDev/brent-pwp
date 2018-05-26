@@ -47,22 +47,28 @@
 					</div>
 					<ul class="nav ml-left">
 						<li>
-						  <span class="fa-stack fa-2x">
-						  <i class="fas fa-stack-2x"></i>
-						  <i class="fab fa-twitter fa-stack-1x"></i>
-						  </span>
+						<a href="https://www.twitter.com/brentTheDev" target="_blank" class="text-secondary">
+							<span class="fa-stack fa-2x">
+							<i class="fas fa-stack-2x"></i>
+							<i class="fab fa-twitter fa-stack-1x"></i>
+							</span>
+						</a>
 						</li>
 						<li>
-						  <span class="fa-stack fa-2x">
-							 <i class="fas fa-stack-2x"></i>
-							 <i class="fab fa-github fa-stack-1x"></i>
-						  </span>
+						<a href="https://www.github.com/brentTheDev" target="_blank" class="text-secondary">
+							<span class="fa-stack fa-2x">
+							<i class="fas fa-stack-2x"></i>
+							<i class="fab fa-github fa-stack-1x"></i>
+							</span>
+						</a>
 						</li>
 						<li>
-						  <span class="fa-stack fa-2x">
-							 <i class="fas fa-stack-2x"></i>
-							 <i class="fab fa-linkedin-in fa-stack-1x"></i>
-						  </span>
+						<a href="https://www.linkedin/in/brentkie" target="_blank" class="text-secondary">
+							<span class="fa-stack fa-2x">
+							<i class="fas fa-stack-2x"></i>
+							<i class="fab fa-linkedin-in fa-stack-1x"></i>
+							</span>
+						</a>
 						</li>
 					</ul>
 				</nav>
@@ -85,7 +91,7 @@
 						<h1 class="font-weight-bold">influence</h1>
 					</div>
 					<div class="col-sm-4">
-						<img class="img-fluid mb-4" src="bart.jpg" alt="fractal">
+						<img class="img-fluid mb-4 bw" src="bart.jpg" alt="fractal">
 					</div>
 					<div class="col-sm-8">
 						<p class="lead">Allow me to reintroduce myself. I invented swag. Poppin' bottles, puttin' supermodels in the cab.
