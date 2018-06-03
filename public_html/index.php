@@ -35,13 +35,13 @@
 								<a class="nav-link" href="#">&#64;brentTheDev</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#">&#47;influence</a>
+								<a class="nav-link" href="#influence">&#47;influence</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#" >&#47;projects</a>
+								<a class="nav-link" href="#projects" >&#47;projects</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#">&#47;contact</a>
+								<a class="nav-link" href="#contact">&#47;contact</a>
 							</li>
 						</ul>
 					</div>
@@ -63,7 +63,7 @@
 						</a>
 						</li>
 						<li>
-						<a href="https://www.linkedin/in/brentkie" target="_blank" class="text-secondary">
+						<a href="https://www.linkedin.com/in/brentkie" target="_blank" class="text-secondary">
 							<span class="fa-stack fa-2x">
 							<i class="fas fa-stack-2x"></i>
 							<i class="fab fa-linkedin-in fa-stack-1x"></i>
@@ -84,14 +84,14 @@
 				</div>
 			</div>
 		</section>
-		<section class="bg-white py-5">
-			<div class="container">
+		<section id="influence" class="bg-white py-5">
+			<div class="container py-3">
 				<div class="row">
 					<div class="col-sm-12 p-3">
 						<h1 class="font-weight-bold">influence</h1>
 					</div>
 					<div class="col-sm-4">
-						<img class="img-fluid mb-4 bw" src="bart.jpg" alt="fractal">
+						<img class="img-fluid mb-4 bw" src="looks.jpg" alt="laptop">
 					</div>
 					<div class="col-sm-8">
 						<p class="lead">Allow me to reintroduce myself. I invented swag. Poppin' bottles, puttin' supermodels in the cab.
@@ -104,8 +104,8 @@
 				</div>
 			</div>
 		</section>
-		<section class="bg-white py-5">
-			<div class="container">
+		<section id="projects" class="bg-white py-5">
+			<div class="container py-3">
 				<div class="row">
 					<div class="col-sm-12 p-3">
 						<h1 class="text-right font-weight-bold">projects</h1>
@@ -164,6 +164,26 @@
 								<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
 							</div>
 						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="contact" class="bg-white py-5">
+			<div class="container py-3">
+				<div class="row">
+					<div class="col-sm-12 p-3">
+						<h1 class="font-weight-bold">influence</h1>
+					</div>
+					<div class="col-sm-6">
+						<p class="lead"> This is the part where I write something about contacting me for future projects.</p>
+					</div>
+					<div class="col-sm-6">
+						<p class="lead">Allow me to reintroduce myself. I invented swag. Poppin' bottles, puttin' supermodels in the cab.
+							Yo, I'm makin' short term goals, when the weather folds. Just put away the leathers and put ice on
+							the gold. Chilly with enough bail money to free a big Willy. High stakes, I got more at stake than
+							Philly. Let's stick up the world and split it 50/50. Photo shoot fresh, looking like wealth, 'bout to
+							call the papparazzi on myself. Can't leave rap alone, the game needs me. I'm outchere ballin', I know
+							you see my sneaks. Look I'm on my grind cousin, ain't got time for frontin, sensitive thugs ya'll all need hugs.</p>
 					</div>
 				</div>
 			</div>
