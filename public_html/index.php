@@ -190,12 +190,53 @@
 						<p class="lead"> This is the part where I write something about contacting me for future projects.</p>
 					</div>
 					<div class="col-sm-6">
-						<p class="lead">Allow me to reintroduce myself. I invented swag. Poppin' bottles, puttin' supermodels in the cab.
-							Yo, I'm makin' short term goals, when the weather folds. Just put away the leathers and put ice on
-							the gold. Chilly with enough bail money to free a big Willy. High stakes, I got more at stake than
-							Philly. Let's stick up the world and split it 50/50. Photo shoot fresh, looking like wealth, 'bout to
-							call the papparazzi on myself. Can't leave rap alone, the game needs me. I'm outchere ballin', I know
-							you see my sneaks. Look I'm on my grind cousin, ain't got time for frontin, sensitive thugs ya'll all need hugs.</p>
+						<!-- BEGIN CONTACT FORM -->
+						<form id="contact-form" method="post" action="php/mailer.php">
+							<div class="form-group">
+								<label for="name">Name</label>
+								<div class="input-group">
+									<div class="input-group-prepend">
+										<span class="input-group-text"><i class="fa fa-user"></i></span>
+									</div>
+									<input class="form-control" type="text" name="name" id="name" placeholder="Your Name">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="email">Email</label>
+								<div class="input-group">
+									<div class="input-group-prepend">
+										<span class="input-group-text"><i class="fa fa-envelope"></i></span>
+									</div>
+									<input class="form-control" type="email" name="email" id="email" placeholder="Your Email">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="subject">Subject</label>
+								<div class="input-group">
+									<div class="input-group-prepend">
+										<span class="input-group-text"><i class="fa fa-pencil"></i></span>
+									</div>
+									<input class="form-control" type="text" name="subject" id="subject" placeholder="Subject">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="demoMessage">Message</label>
+								<div class="input-group">
+									<div class="input-group-prepend">
+										<span class="input-group-text"><i class="fa fa-comment"></i></span>
+									</div>
+									<textarea name="message" rows="5" id="message" class="form-control" placeholder="Your Message (2000 characters max)"></textarea>
+								</div>
+							</div>
+
+							<div class="g-recaptcha" data-sitekey="6Lfy_1wUAAAAAP3eDUsz83_CKK_4v-fnUVnAsFYi"></div>
+
+							<button class="btn btn-info" type="submit">Submit</button>
+							<button class="btn btn-default" type="reset">Reset</button>
+						</form>
+						<!-- END CONTACT FORM-->
+
+						<div id="output-area"></div>
 					</div>
 				</div>
 			</div>
