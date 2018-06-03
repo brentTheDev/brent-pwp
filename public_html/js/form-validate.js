@@ -40,7 +40,7 @@ $(document).ready(function(){
 
 		// error messages to display to the end user when rules above don't pass
 		messages: {
-			demoName: {
+			name: {
 				required: "Please enter your name."
 			},
 			email: {
