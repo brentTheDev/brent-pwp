@@ -134,20 +134,28 @@
 						<img class="img-fluid mb-4" src="bart.jpg" alt="fractal">
 					</div>
 					<div class="col-sm-4">
-						<img class="img-fluid mb-4" src="bart.jpg" alt="fractal">
+						<img class="img-fluid mb-4" src="sumdays.png" alt="fractal">
 					</div>
 					<div class="col-sm-8">
-						<p class="lead">Allow me to reintroduce myself. I invented swag. Poppin' bottles, puttin' supermodels in the cab.
-							Yo, I'm makin' short term goals, when the weather folds. Just put away the leathers and put ice on
-							the gold. Chilly with enough bail money to free a big Willy. High stakes, I got more at stake than
-							Philly. Let's stick up the world and split it 50/50. Photo shoot fresh, looking like wealth, 'bout to
-							call the papparazzi on myself. Can't leave rap alone, the game needs me. I'm outchere ballin', I know
-							you see my sneaks. Look I'm on my grind cousin, ain't got time for frontin, sensitive thugs ya'll all need hugs.</p>
+						<h3>Sum.Days</h3>
+						<p class="lead">One of my favorite projects, Sum.Days was created from talking about Sunday vibes and sharing music with others.
+						As BKNights, I teamed up with Jon aka JON to provide a weekly Sunday music podcast show via Mixlr.com. We created our online presence
+							through social media to reach various demographics and gain a following of listeners who tuned into our show during the 4pm-6pm,
+							MST timeslot. This helped craft skills around the use of studio equipment, social media, and music curation. Check out the links
+							to this project. Playback to archived shows are available on Mixcloud.</p>
+						<ul>
+							<ul>
+								<li>
+								<span class="fa-stack fa-lg">
+								<i class="fas fa-stack-lg"></i>
+								<i class="fab fa-twitter fa-stack-md"></i> Mixcloud</li>
+								<li><i class="fab fa-twitter"></i> Twitter</li>
+								<li><i class="fab fa-instagram"></i> Instagram</li>
+							</ul>
+						</ul>
 					</div>
 				</div>
 			</div>
-		</section>
-		<section>
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">
@@ -220,7 +228,7 @@
 								</div>
 							</div>
 							<div class="form-group">
-								<label for="demoMessage">Message</label>
+								<label for="message">Message</label>
 								<div class="input-group">
 									<div class="input-group-prepend">
 										<span class="input-group-text"><i class="fa fa-comment"></i></span>
