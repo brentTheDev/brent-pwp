@@ -38,3 +38,26 @@ Your Milestone 2a passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/p
 
 ### Milestone 2b Feedback
 Nice work. Meeting notes left via Slack. Your Milestone 2b passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
+
+### PWP Final Feedback
+Congratulations on a superb PWP. What you've created here meets a professional standard of quality - nice work! This page is not only beautiful to look at, but your content is engaging and well composed. You're clearly ready for more challenging projects, and I look forward to seeing what you create in the future.
+
+*Code Base*: Excellent. Your code is well formatted, standards-compliant, and I see no errors in your HTML, CSS or Javascript.
+
+*Git Commits*: Nice work integrating good Git workflow.
+
+*Mobile-First Responsiveness*: I've tested your page using devtools, Chrome on Linux, and Chrome & Firefox on Android. Your layout and  design works well on all the platforms tested.
+
+*Design, Content, &amp; Overall Presentation*: I appreciate the effort you've made to craft personal, well written, and engaging content. This highlights your skills and talents well. The overall presentation of this page meets a professional standard - awesome job!
+
+*Contact Form*: Looks like it's working correctly on my end - check and see if you received my test message.
+
+Your PWP passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Your cumulative PWP score including all Milestones is 39/40 points (97.5%).
+
+- Milestone 1 - 20%: Tier IV 40(0.2) = 8
+- Milestone 2a - 20%: Tier IV 40(0.2) = 8
+- Milestone 2b - 10%: Tier III 30(0.1) = 3
+- Milestone 3 - 50%: Tier IV 40(0.5) = 20
+
+#### Suggestions
+- We didn't discuss favicons, but you might want to consider adding one. Have a look at this tool which helps render multiple versions for cross-platform  support: https://realfavicongenerator.net/
