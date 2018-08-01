@@ -128,7 +128,7 @@
 							agile methodologies. A working prototype of our application was developed in 7 weeks during Spring of 2018. Thanks to Carlos, James, &amp; Erik for a great experience. Click the link below to see what we
 							created. Thanks!</p>
 						<div class="row justify-content-center">
-							<p><a href="#" class="text-info">Website Goes Here</a></p>
+							<p><a href="#" class="text-info">Website Link Coming Soon!</a></p>
 						</div>
 					</div>
 					<div class="col-sm-5 pt-3 pb-3">
@@ -180,7 +180,7 @@
 					</div>
 					<div class="col-sm-6">
 						<p class="lead">I appreciate you stopping by my website. Feel free to send me a message about business inquiries or project collaboration. Don't forget to follow me on Twitter &amp; LinkedIn!
-						I look forward to hearing from you! Da'waa'eh(thanks)!</p>
+						I look forward to hearing from you! Da'waa'eh(thanks)! Thank you again for coming to my website!</p>
 					</div>
 					<div class="col-sm-6">
 						<!-- BEGIN CONTACT FORM -->
